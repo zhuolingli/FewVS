@@ -1,0 +1,1009 @@
+{
+    "apple": [
+        "round or oval shape",
+        "red, green, or yellow skin",
+        "stem at the top",
+        "small brown or black seeds inside",
+        "smooth and shiny skin",
+        "slightly curved bottom",
+        "size of a fist or smaller"
+    ],
+    "aquarium_fish": [
+        "aquatic animal",
+        "colorful scales",
+        "fins for swimming",
+        "gills for breathing underwater",
+        "a glass or plastic tank or bowl",
+        "water and possibly plants or decorations inside the tank",
+        "a filter or air pump",
+        "possibly a heater or thermometer",
+        "possibly a feeding tube or lid for feeding the fish"
+    ],
+    "baby": [
+        "small size compared to other objects in the photo",
+        "round head",
+        "chubby cheeks",
+        "soft, smooth skin",
+        "small hands and feet",
+        "lack of hair or very fine hair",
+        "curious or innocent expression",
+        "possibly being held or supported by an adult"
+    ],
+    "bear": [
+        "large, stocky body",
+        "thick fur, usually brown or black",
+        "round ears",
+        "snout or muzzle",
+        "sharp claws",
+        "large paws",
+        "humped back",
+        "prominent shoulder muscles",
+        "small, dark eyes",
+        "a distinctive nose shape, often with a hump or bump in the middle"
+    ],
+    "beaver": [
+        "semi-aquatic rodent",
+        "brown fur",
+        "flat, paddle-like tail",
+        "large, sharp front teeth",
+        "webbed hind feet",
+        "small, rounded ears",
+        "small, beady eyes",
+        "stocky body shape"
+    ],
+    "bed": [
+        "rectangular or square shape",
+        "a frame or headboard",
+        "a mattress",
+        "pillows and bedding",
+        "legs or a base to support the bed",
+        "a blanket or comforter",
+        "sheets or a bedspread",
+        "a bedside table or lamp"
+    ],
+    "bee": [
+        "insect with six legs",
+        "black and yellow striped body",
+        "two pairs of wings",
+        "antennae",
+        "stinger",
+        "pollen baskets on hind legs",
+        "fuzzy or hairy body",
+        "small size compared to other objects in the photo"
+    ],
+    "beetle": [
+        "six legs",
+        "hard, shiny exoskeleton",
+        "segmented body",
+        "antennae",
+        "wings (may be hidden or visible)",
+        "distinct head, thorax, and abdomen sections",
+        "various colors and patterns (depending on species)",
+        "small size (compared to other insects)"
+    ],
+    "bicycle": [
+        "two-wheeled vehicle",
+        "metal frame",
+        "handlebars",
+        "pedals",
+        "wheels with spokes",
+        "chain",
+        "seat",
+        "brakes",
+        "gears",
+        "tires",
+        "reflectors",
+        "kickstand"
+    ],
+    "bottle": [
+        "cylindrical or rectangular shape",
+        "made of glass, plastic, or metal",
+        "a narrow neck and wider base",
+        "a label or design on the surface",
+        "a cap or cork on the top",
+        "a liquid or substance inside",
+        "a clear or colored appearance",
+        "various sizes and shapes depending on the type of bottle (e.g. water bottle, wine bottle, soda bottle)"
+    ],
+    "bowl": [
+        "round or oval shape",
+        "curved sides",
+        "open top",
+        "flat bottom",
+        "made of ceramic, glass, or metal",
+        "may have a pattern or design on the surface",
+        "may have a handle or spout",
+        "may contain food or liquid"
+    ],
+    "boy": [
+        "human child",
+        "typically shorter than adults",
+        "shorter hair (compared to girls)",
+        "may have a visible Adam's apple",
+        "may have a more angular jawline",
+        "may be wearing clothing typically associated with boys (e.g. pants, t-shirts)",
+        "may have a more muscular build (compared to girls)"
+    ],
+    "bridge": [
+        "a structure spanning over a body of water or a valley",
+        "made of concrete, steel, or other materials",
+        "may have arches, cables, or suspension supports",
+        "may have a roadway or pedestrian walkway",
+        "may have railings or barriers",
+        "may have lights or other decorative elements",
+        "may have a distinct shape or design"
+    ],
+    "bus": [
+        "large, rectangular vehicle",
+        "multiple windows on each side",
+        "wheels and tires",
+        "doors for entry and exit",
+        "headlights and taillights",
+        "a destination sign or route number displayed on the front or side",
+        "a bus driver visible in the driver's seat",
+        "passengers visible inside the bus"
+    ],
+    "butterfly": [
+        "six legs",
+        "two pairs of wings",
+        "colorful and patterned wings",
+        "long, thin antennae",
+        "small, slender body",
+        "proboscis (long, thin mouthpart for feeding)",
+        "ability to fly",
+        "delicate and lightweight appearance"
+    ],
+    "camel": [
+        "large, humped body",
+        "long, curved neck",
+        "two-toed feet with thick, padded soles",
+        "long, thick eyelashes",
+        "long, bushy eyebrows",
+        "long, curved, and pointed ears",
+        "a tuft of hair on top of the head",
+        "a long, curved tail",
+        "a saddle or other equipment on its back (if domesticated)"
+    ],
+    "can": [
+        "cylindrical shape",
+        "metal or aluminum material",
+        "pull-tab or pop-top lid",
+        "label or design on the outside",
+        "size (smaller than a bottle, larger than a jar)",
+        "possible contents (food or beverage)",
+        "possible brand or logo on the label"
+    ],
+    "castle": [
+        "large, fortified structure",
+        "stone or brick construction",
+        "towers and turrets",
+        "battlements or crenellations",
+        "moat or drawbridge",
+        "flags or banners",
+        "windows with arches or stained glass",
+        "ornate details or decorations",
+        "surrounding walls or gates"
+    ],
+    "caterpillar": [
+        "six legs",
+        "segmented body",
+        "soft and cylindrical body shape",
+        "small head with simple eyes",
+        "multiple pairs of prolegs (fleshy, non-jointed legs)",
+        "various colors and patterns (depending on species)",
+        "antennae on the head",
+        "small size compared to other insects in the photo"
+    ],
+    "cattle": [
+        "four-legged mammal",
+        "large, stocky body",
+        "typically black, brown, or white in color",
+        "horns (in some breeds)",
+        "hooves",
+        "long tail with a tuft of hair at the end",
+        "prominent ears",
+        "grazing in a field or pasture setting"
+    ],
+    "chair": [
+        "a seat for sitting",
+        "a backrest for support",
+        "four legs or a base for stability",
+        "a frame made of wood, metal, or plastic",
+        "a cushion or padding for comfort",
+        "armrests (if present)",
+        "a specific design or style (e.g. armchair, dining chair, rocking chair)"
+    ],
+    "chimpanzee": [
+        "four-limbed primate",
+        "black or brown fur",
+        "long arms and short legs",
+        "opposable thumbs",
+        "prominent brow ridge",
+        "protruding ears",
+        "expressive facial features",
+        "bare skin on face and hands",
+        "possible presence of tools or objects being used by the chimpanzee"
+    ],
+    "clock": [
+        "circular or rectangular shape",
+        "numbers or Roman numerals to indicate time",
+        "hands or digital display to show time",
+        "a clock face with markings for minutes and hours",
+        "a frame or casing",
+        "a pendulum (for a grandfather clock)",
+        "a chime or alarm function",
+        "a battery or winding mechanism"
+    ],
+    "cloud": [
+        "white or grey in color",
+        "fluffy or wispy appearance",
+        "floating in the sky",
+        "varying shapes and sizes",
+        "may have a dark or stormy appearance if a cumulonimbus cloud",
+        "may have a flat, layered appearance if a stratus cloud",
+        "may have a puffy, cauliflower-like appearance if a cumulus cloud",
+        "may have a thin, wispy appearance if a cirrus cloud"
+    ],
+    "cockroach": [
+        "six legs",
+        "long antennae",
+        "flat, oval-shaped body",
+        "brown or black color",
+        "small size (usually less than 2 inches)",
+        "segmented body",
+        "two pairs of wings (although some species may not have wings)",
+        "long, thin legs with spines",
+        "long, thin cerci (appendages) at the end of the abdomen"
+    ],
+    "couch": [
+        "a piece of furniture",
+        "typically rectangular or L-shaped",
+        "cushioned seat and backrest",
+        "armrests on either side",
+        "legs or a base for support",
+        "fabric or leather covering",
+        "pillows or throw blankets on top",
+        "may have additional features such as reclining capabilities or a pull-out bed."
+    ],
+    "cra": [
+        "four-wheeled vehicle",
+        "typically silver, black, or white in color",
+        "a front grille and headlights",
+        "a windshield and side windows",
+        "side mirrors",
+        "a license plate",
+        "a steering wheel and dashboard inside",
+        "doors and handles",
+        "a trunk or hatchback for storage"
+    ],
+    "crocodile": [
+        "large, scaly body",
+        "long, powerful tail",
+        "four short, sturdy legs",
+        "sharp, pointed teeth",
+        "long, narrow snout",
+        "eyes and nostrils on top of the head",
+        "dark green or brown coloration",
+        "visible scales on the skin"
+    ],
+    "cup": [
+        "cylindrical or conical shape",
+        "handle for holding",
+        "made of ceramic, glass, or plastic",
+        "may have a lid or cover",
+        "may have a design or pattern on the surface",
+        "may have a logo or label",
+        "may have liquid inside",
+        "may have condensation on the outside if filled with a cold drink"
+    ],
+    "dinosaur": [
+        "large, reptilian creature",
+        "scaly skin",
+        "sharp teeth",
+        "long tail",
+        "two or four legs",
+        "claws on feet and/or hands",
+        "bony plates or spikes on back or head",
+        "possibly feathers or horns",
+        "lived during the Mesozoic Era (between 252 and 66 million years ago)"
+    ],
+    "dolphin": [
+        "aquatic mammal",
+        "grey, black, or white skin",
+        "streamlined body shape",
+        "dorsal fin on the back",
+        "flippers on the sides",
+        "blowhole on the top of the head",
+        "curved mouth with teeth visible",
+        "water splashing around the body"
+    ],
+    "elephant": [
+        "large, four-legged mammal",
+        "grey or brown skin",
+        "long trunk",
+        "large, floppy ears",
+        "tusks (in some species)",
+        "thick, wrinkled skin",
+        "thick, sturdy legs",
+        "tail with a tuft of hair at the end"
+    ],
+    "flatfish": [
+        "flat, oval-shaped body",
+        "two eyes on one side of the head",
+        "a mouth on the underside of the body",
+        "a long, narrow tail",
+        "a smooth, scaleless skin",
+        "fins on the top and bottom of the body",
+        "a light or dark coloration, often with spots or patterns",
+        "a flattened appearance when viewed from the side"
+    ],
+    "forest": [
+        "dense collection of trees",
+        "varying shades of green and brown",
+        "tall tree trunks",
+        "leafy canopies",
+        "undergrowth of bushes and shrubs",
+        "uneven terrain",
+        "presence of wildlife or animal tracks",
+        "sunlight filtering through the trees"
+    ],
+    "fox": [
+        "four-legged mammal",
+        "reddish-orange fur",
+        "white underbelly",
+        "pointed ears",
+        "long, bushy tail",
+        "black or dark markings on face and legs",
+        "sharp, pointed snout",
+        "small, triangular nose",
+        "black or dark eyes"
+    ],
+    "girl": [
+        "human female",
+        "typically has long hair",
+        "feminine facial features (e.g. smaller jawline, fuller lips)",
+        "may be wearing makeup",
+        "typically wears clothing associated with femininity (e.g. dresses, skirts)",
+        "may have accessories such as jewelry or hair accessories",
+        "may be engaged in activities typically associated with girls (e.g. playing with dolls, dancing)"
+    ],
+    "hamster": [
+        "small rodent",
+        "round, furry body",
+        "short legs",
+        "small, rounded ears",
+        "small, black eyes",
+        "short, stubby tail",
+        "whiskers",
+        "various coat colors (brown, grey, white, etc.)",
+        "may be holding or chewing on food or bedding material"
+    ],
+    "house": [
+        "a structure with walls and a roof",
+        "windows and doors",
+        "a chimney (if it has one)",
+        "a front yard or garden",
+        "a driveway or garage",
+        "multiple levels or stories",
+        "architectural style (e.g. Victorian, modern, etc.)",
+        "surrounding landscape or environment (e.g. suburban, rural, etc.)"
+    ],
+    "kangaroo": [
+        "marsupial",
+        "grey, brown, or red-brown fur",
+        "long, powerful hind legs for hopping",
+        "short front legs with clawed paws",
+        "large, pointed ears",
+        "a long, muscular tail",
+        "a pouch for carrying young",
+        "a distinctive face with a long snout and large eyes"
+    ],
+    "keyboard": [
+        "rectangular shape",
+        "black or grey",
+        "rows of keys with letters, numbers, and symbols",
+        "a space bar",
+        "function keys at the top",
+        "arrow keys",
+        "a number pad on the right side",
+        "a USB or wireless connection",
+        "a cord or battery compartment"
+    ],
+    "lamp": [
+        "a base or stand to support the lamp",
+        "a light bulb or shade on top of the base",
+        "a power cord",
+        "a switch or knob to turn the lamp on and off",
+        "a plug to connect to an outlet",
+        "a lampshade or cover over the light source",
+        "a specific shape or design of the base or shade"
+    ],
+    "lawn_mower": [
+        "a machine used for cutting grass",
+        "a motor or engine",
+        "a cutting blade or blades",
+        "a handle or steering mechanism",
+        "wheels or tracks for movement",
+        "a grass collection bag or chute",
+        "a fuel tank or power source",
+        "a deck or housing for the cutting mechanism"
+    ],
+    "leopard": [
+        "large, four-legged feline",
+        "yellow or golden fur with black spots",
+        "muscular body",
+        "long tail",
+        "sharp claws",
+        "distinctive facial markings, including black tear marks and white chin",
+        "powerful jaws and sharp teeth",
+        "keen eyesight and excellent camouflage abilities"
+    ],
+    "lion": [
+        "large, muscular body",
+        "tawny or golden fur",
+        "mane (in males)",
+        "sharp, retractable claws",
+        "powerful jaws and teeth",
+        "round, dark eyes",
+        "prominent whiskers",
+        "pointed ears",
+        "long tail with a tuft of fur at the end"
+    ],
+    "lizard": [
+        "four-legged reptile",
+        "scaly skin",
+        "long tail",
+        "small, beady eyes",
+        "sharp claws",
+        "elongated body",
+        "often green, brown, or grey in color",
+        "may have patterns or stripes on its skin",
+        "may have a forked tongue",
+        "may have a dewlap (flap of skin) under its chin"
+    ],
+    "lobster": [
+        "crustacean with a hard exoskeleton",
+        "typically reddish-brown in color",
+        "two large claws",
+        "segmented body with 10 legs",
+        "long antennae",
+        "small eyes on stalks",
+        "a tail fan",
+        "small, sharp spines on the legs and body"
+    ],
+    "man": [
+        "human male",
+        "facial hair (beard, mustache)",
+        "short hair or bald head",
+        "broad shoulders",
+        "muscular build",
+        "typically taller than women",
+        "wearing masculine clothing (suits, pants, button-up shirts)",
+        "facial features such as a strong jawline or prominent nose"
+    ],
+    "maple_tree": [
+        "deciduous tree",
+        "tall and slender trunk",
+        "branches that spread out horizontally",
+        "leaves with 3-5 lobes and serrated edges",
+        "green leaves that turn red, orange, or yellow in the fall",
+        "small, winged seeds called \"helicopters\"",
+        "bark with vertical ridges and furrows"
+    ],
+    "motorcycle": [
+        "two-wheeled vehicle",
+        "typically has a motor and engine",
+        "handlebars for steering",
+        "seat for rider",
+        "wheels with tires",
+        "exhaust pipes",
+        "headlights and taillights",
+        "visible brand or logo",
+        "may have additional features such as a windshield, saddlebags, or a sidecar."
+    ],
+    "mountain": [
+        "large, natural landform",
+        "rocky or jagged surface",
+        "tall and steep",
+        "may have snow or glaciers at the top",
+        "surrounded by lower land or valleys",
+        "may have trees or vegetation on lower slopes",
+        "may have visible hiking trails or roads",
+        "may have clouds or mist around the peak"
+    ],
+    "mouse": [
+        "small rodent",
+        "grey, brown, or black fur",
+        "small, rounded ears",
+        "long, thin tail",
+        "four legs with small paws",
+        "whiskers on the face",
+        "small, beady eyes",
+        "pointed snout"
+    ],
+    "mushroom": [
+        "fungus",
+        "typically round or dome-shaped cap",
+        "stem or stalk",
+        "gills or pores on the underside of the cap",
+        "various colors, including white, brown, red, or yellow",
+        "may have a distinct smell or texture",
+        "may be growing on the ground or on a tree or log"
+    ],
+    "oak_tree": [
+        "large, woody plant",
+        "tall and sturdy trunk",
+        "broad, spreading crown of branches and leaves",
+        "deeply lobed leaves",
+        "acorns growing on the branches",
+        "rough, textured bark",
+        "thick, gnarled branches",
+        "deciduous (loses leaves in the fall)"
+    ],
+    "orange": [
+        "round shape",
+        "orange color",
+        "dimpled skin",
+        "stem at the top",
+        "green leaves attached to the stem",
+        "segmented interior",
+        "white pith surrounding the segments",
+        "juicy and pulpy texture"
+    ],
+    "orchid": [
+        "flowering plant",
+        "long, thin stem",
+        "multiple petals in various colors (such as pink, purple, white, or yellow)",
+        "distinct, intricate patterns on the petals",
+        "green leaves",
+        "possibly a pot or vase holding the plant",
+        "may have a label or tag identifying the type of orchid"
+    ],
+    "otter": [
+        "semi-aquatic mammal",
+        "brown or grey fur",
+        "long, streamlined body",
+        "webbed feet",
+        "small, rounded ears",
+        "whiskers",
+        "sharp claws",
+        "playful behavior",
+        "often seen near water or holding a fish in its mouth"
+    ],
+    "palm_tree": [
+        "tall, slender trunk",
+        "large, fan-shaped leaves",
+        "typically found in tropical or subtropical regions",
+        "often found near beaches or in coastal areas",
+        "may have coconuts or other fruit growing from the tree",
+        "may have a curved or leaning trunk",
+        "may have a distinctive bark pattern or texture"
+    ],
+    "pear": [
+        "fruit",
+        "green, yellow, or red skin",
+        "round or pear-shaped",
+        "stem at the top",
+        "small, brown seeds inside",
+        "smooth skin with a slight texture",
+        "slightly curved shape",
+        "often found in pairs on a branch or in a bowl"
+    ],
+    "pickup_truck": [
+        "four-wheeled vehicle",
+        "open bed in the back for hauling cargo",
+        "cab for passengers in the front",
+        "large, rectangular shape",
+        "usually has a tailgate",
+        "often has a hitch for towing",
+        "may have a ladder rack or tool box in the bed",
+        "may have a logo or brand name on the front grille or tailgate"
+    ],
+    "pine_tree": [
+        "coniferous tree",
+        "tall and straight trunk",
+        "needle-like leaves",
+        "cone-shaped or cylindrical cones",
+        "rough and scaly bark",
+        "branches that grow in a spiral pattern",
+        "often found in mountainous or forested areas"
+    ],
+    "plain": [
+        "large, open area of land",
+        "relatively flat and level terrain",
+        "minimal vegetation or trees",
+        "possibly some small hills or mountains in the distance",
+        "possibly some bodies of water, such as lakes or rivers",
+        "possibly some man-made structures, such as roads or buildings",
+        "possibly some animals, such as grazing livestock or wild animals"
+    ],
+    "plate": [
+        "circular or oval shape",
+        "flat surface",
+        "raised edges or rim",
+        "made of ceramic, glass, or plastic",
+        "may have a pattern or design on the surface",
+        "may have food or utensils on top of it",
+        "may have a fork or spoon next to it",
+        "may have food residue or crumbs on it"
+    ],
+    "poppy": [
+        "flowering plant",
+        "tall stem with thin, green leaves",
+        "large, colorful petals (usually red, pink, or white)",
+        "a dark center with small, black seeds",
+        "a distinct, papery texture to the petals",
+        "a delicate, slightly curved shape",
+        "a small, round bud at the top of the stem"
+    ],
+    "porcupine": [
+        "rodent-like animal",
+        "brown, black, or grey fur",
+        "quills covering the body",
+        "small eyes and ears",
+        "short legs",
+        "long, thick tail",
+        "sharp claws",
+        "a distinctive snout with large front teeth"
+    ],
+    "possum": [
+        "small to medium-sized marsupial",
+        "grey, brown, or black fur",
+        "long, pointed snout",
+        "large, round ears",
+        "sharp claws on all four feet",
+        "long, prehensile tail",
+        "white or cream-colored face with dark markings around the eyes",
+        "nocturnal behavior"
+    ],
+    "rabbit": [
+        "small, furry mammal",
+        "long ears",
+        "short, fluffy tail",
+        "four legs with clawed paws",
+        "typically grey, brown, or white in color",
+        "distinctive hopping movement",
+        "whiskers on the face",
+        "front teeth that continuously grow",
+        "may have a collar or harness if domesticated"
+    ],
+    "raccoon": [
+        "medium-sized mammal",
+        "grey, black, and white fur",
+        "black mask around eyes",
+        "bushy tail with black and white rings",
+        "pointed snout",
+        "small, rounded ears",
+        "front paws with five toes and long claws",
+        "back paws with five toes and shorter claws"
+    ],
+    "ray": [
+        "flat, disc-shaped body",
+        "wide, triangular pectoral fins",
+        "long, whip-like tail",
+        "gills on the underside of the body",
+        "smooth, scaleless skin",
+        "dark or mottled coloration",
+        "large, protruding eyes",
+        "mouth and nostrils on the underside of the body"
+    ],
+    "road": [
+        "a flat, paved surface",
+        "lines or markings for traffic lanes",
+        "signs or signals for traffic control",
+        "surrounding landscape or buildings",
+        "vehicles or pedestrians on the road",
+        "streetlights or other infrastructure",
+        "road signs or street names",
+        "intersections or curves in the road"
+    ],
+    "rocket": [
+        "cylindrical or cone-shaped body",
+        "fins or wings for stabilization",
+        "a pointed nose cone",
+        "a flame or exhaust coming from the bottom",
+        "a launch pad or platform",
+        "a plume of smoke or dust",
+        "a countdown clock or other launch equipment",
+        "a space or NASA logo"
+    ],
+    "rose": [
+        "flowering plant",
+        "green stem with thorns",
+        "green leaves",
+        "colorful petals (can be red, pink, white, yellow, etc.)",
+        "distinct fragrance",
+        "multiple layers of petals",
+        "round or oval shape",
+        "can be a single flower or part of a larger bouquet"
+    ],
+    "sea": [
+        "large body of water",
+        "blue or green color",
+        "waves or ripples on the surface",
+        "horizon line where the water meets the sky",
+        "possibly land or other structures in the background",
+        "marine life such as fish, dolphins, or whales visible in the water",
+        "boats or ships on the surface",
+        "sandy or rocky shoreline"
+    ],
+    "seal": [
+        "aquatic mammal",
+        "blubber for insulation",
+        "flippers for swimming",
+        "streamlined body shape",
+        "whiskers or vibrissae around the face",
+        "dark or light colored fur or skin",
+        "round head with large eyes and small ears",
+        "visible nostrils on the snout",
+        "may be seen on land or in water"
+    ],
+    "shark": [
+        "elongated, streamlined body",
+        "grey, brown, or black coloration",
+        "pointed snout",
+        "multiple rows of sharp teeth",
+        "gills on the sides of the head",
+        "dorsal fin on the back",
+        "pectoral fins on the sides",
+        "caudal fin (tail) for propulsion",
+        "large, dark eyes",
+        "gill slits on the sides of the body"
+    ],
+    "shrew": [
+        "small, mouse-like mammal",
+        "brown, grey, or black fur",
+        "long, pointed snout",
+        "small, beady eyes",
+        "small, rounded ears",
+        "short, stubby legs",
+        "long, thin tail",
+        "sharp, pointed teeth"
+    ],
+    "skunk": [
+        "small to medium-sized mammal",
+        "black and white fur",
+        "distinct white stripe down the back",
+        "small, pointed ears",
+        "long, bushy tail",
+        "small, beady eyes",
+        "pointed snout",
+        "strong, musky odor"
+    ],
+    "skyscraper": [
+        "tall and towering structure",
+        "multiple floors or levels",
+        "glass or reflective exterior",
+        "distinct shape or design",
+        "visible windows or balconies",
+        "surrounding buildings or cityscape",
+        "construction cranes or scaffolding (if under construction)",
+        "signage or logos on the building"
+    ],
+    "snail": [
+        "small, slimy, and slow-moving",
+        "soft, slimy body",
+        "spiral-shaped shell",
+        "two pairs of tentacles on its head",
+        "one pair of eyes on the longer tentacles",
+        "a muscular foot for movement",
+        "a slimy trail behind it",
+        "various colors and patterns on its shell and body"
+    ],
+    "snake": [
+        "long, slender body",
+        "scales covering the body",
+        "no legs",
+        "forked tongue",
+        "elongated head",
+        "distinct patterns or colors on the skin",
+        "ability to coil or slither",
+        "lack of eyelids",
+        "ability to open mouth wide to swallow prey"
+    ],
+    "spider": [
+        "eight legs",
+        "segmented body with two main parts (cephalothorax and abdomen)",
+        "multiple eyes (usually eight)",
+        "fangs or chelicerae",
+        "spinnerets (silk-producing organs)",
+        "various colors and patterns on body and legs",
+        "web or silk strands visible in the photo"
+    ],
+    "squirrel": [
+        "small to medium-sized rodent",
+        "bushy tail",
+        "grey, brown, or red fur",
+        "pointed ears",
+        "sharp claws",
+        "long, narrow snout",
+        "large, round eyes",
+        "four legs with paws",
+        "often seen in trees or on the ground gathering food"
+    ],
+    "streetcar": [
+        "public transportation vehicle",
+        "typically red, yellow, or green",
+        "long and narrow body",
+        "tracks visible on the ground",
+        "multiple doors for passengers to enter and exit",
+        "windows along the sides",
+        "overhead wires for power",
+        "destination sign on the front or side",
+        "may have advertisements or route information displayed on the exterior."
+    ],
+    "sunflower": [
+        "tall, slender stem",
+        "large, round flower head",
+        "bright yellow petals",
+        "dark brown center (disc florets)",
+        "green leaves",
+        "rough, textured stem and leaves",
+        "possibly other smaller flower heads on the same stem"
+    ],
+    "sweet_pepper": [
+        "round or bell-shaped",
+        "smooth, shiny skin",
+        "green, red, yellow, or orange in color",
+        "stem and leaves attached",
+        "hollow inside with seeds",
+        "ridges or bumps on the surface",
+        "size and shape may vary depending on the type of sweet pepper"
+    ],
+    "table": [
+        "a flat surface supported by legs or a base",
+        "made of wood, metal, or plastic",
+        "rectangular, square, or round shape",
+        "may have drawers or shelves for storage",
+        "may have chairs or stools around it",
+        "may have decorative elements such as carvings or patterns",
+        "may have objects on top of it, such as dishes or books"
+    ],
+    "tank": [
+        "military vehicle",
+        "large, armored body",
+        "tracks instead of wheels",
+        "a large gun or cannon mounted on top",
+        "camouflage paint or markings",
+        "a hatch or opening for soldiers to enter and exit",
+        "possibly a flag or other identifying symbol on the side"
+    ],
+    "telephone": [
+        "handheld device",
+        "black, white, or grey",
+        "a screen for displaying information",
+        "a keypad for dialing numbers",
+        "a receiver for making calls",
+        "a speaker for hands-free calling",
+        "a power cord or battery",
+        "a phone jack or port for connecting to a landline or cellular network"
+    ],
+    "television": [
+        "electronic device",
+        "black or grey",
+        "a large, rectangular screen",
+        "a stand or mount to support the screen",
+        "one or more speakers",
+        "a power cord",
+        "input ports for connecting to other devices",
+        "a remote control"
+    ],
+    "tiger": [
+        "large, four-legged feline",
+        "orange, black, and white striped fur",
+        "sharp claws",
+        "long tail",
+        "distinctive facial markings, including white patches around the eyes and black stripes on the forehead",
+        "muscular body",
+        "powerful jaws and teeth",
+        "keen eyesight and sense of smell"
+    ],
+    "tractor": [
+        "large, heavy vehicle",
+        "usually bright colors such as red, green, or yellow",
+        "four wheels or tracks for movement",
+        "a cab for the driver",
+        "a large, flat front for pushing or pulling heavy loads",
+        "a hitch for attaching equipment or trailers",
+        "exhaust pipes",
+        "headlights and taillights"
+    ],
+    "train": [
+        "long, cylindrical shape",
+        "multiple cars connected together",
+        "wheels and tracks",
+        "smokestack or engine at the front",
+        "windows on the sides of the cars",
+        "doors for passengers to enter and exit",
+        "train tracks or a train station in the background"
+    ],
+    "trout": [
+        "freshwater fish",
+        "elongated body",
+        "streamlined shape",
+        "fins on the top, bottom, and sides of the body",
+        "small scales covering the body",
+        "gills on the sides of the head",
+        "mouth with sharp teeth",
+        "typically green, brown, or silver in color with spots or stripes"
+    ],
+    "tulip": [
+        "flowering plant",
+        "long, slender stem",
+        "green leaves",
+        "brightly colored petals (usually red, pink, yellow, or white)",
+        "cup-shaped flower head",
+        "distinct stamen and pistil in the center of the flower",
+        "often found in groups or clusters"
+    ],
+    "turtle": [
+        "reptile with a hard shell covering its body",
+        "four legs with webbed feet",
+        "a long, pointed tail",
+        "a small head with a beak-like mouth",
+        "scaly skin",
+        "various shades of green, brown, or black",
+        "a shell with distinct patterns or markings",
+        "a slow-moving and low-to-the-ground posture"
+    ],
+    "wardrobe": [
+        "a piece of furniture",
+        "typically made of wood",
+        "has doors or drawers for storage",
+        "may have a mirror on one of the doors",
+        "may have a hanging rod for clothes",
+        "may have shelves or compartments for storage",
+        "may have decorative details or handles on the doors or drawers"
+    ],
+    "whale": [
+        "large, aquatic mammal",
+        "streamlined body shape",
+        "smooth, shiny skin",
+        "blowhole on top of head",
+        "flippers or fins",
+        "tail fluke",
+        "dark or light coloration, depending on species",
+        "visible water splashes or spray from blowhole"
+    ],
+    "willow_tree": [
+        "deciduous tree",
+        "long, drooping branches",
+        "narrow, pointed leaves",
+        "smooth, grey bark",
+        "often found near water sources",
+        "small, yellow-green flowers in the spring",
+        "small, green or brown fruit in the fall",
+        "typically grows to be 30-40 feet tall"
+    ],
+    "wolf": [
+        "four-legged mammal",
+        "grey, black, or white fur",
+        "pointed ears",
+        "sharp teeth",
+        "long snout",
+        "bushy tail",
+        "muscular body",
+        "keen eyesight and sense of smell"
+    ],
+    "woman": [
+        "human",
+        "feminine facial features (e.g. smaller jaw, fuller lips)",
+        "long hair (typically)",
+        "breasts",
+        "hourglass figure (typically)",
+        "feminine clothing (e.g. dresses, skirts)",
+        "makeup (typically)",
+        "feminine accessories (e.g. jewelry, handbags)",
+        "body language and posture (e.g. crossed legs, hand on hip)"
+    ],
+    "worm": [
+        "long, slender body",
+        "segmented body",
+        "soft and slimy texture",
+        "no legs or arms",
+        "no eyes or distinct facial features",
+        "can be various colors, such as pink, brown, or grey",
+        "may have a pointed head and a rounded tail",
+        "may be burrowing in soil or crawling on a surface"
+    ]
+}
