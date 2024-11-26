@@ -54,11 +54,6 @@ For example, we can use the following code for training with the ResNet backbone
 python train.py  --mode train_proj --backbone Res12 --dataset CIFAR_FS  
 ```
 
-
-
-
-
-
 ## Evaluation 
 We use ```train.py``` to evaluate a trained model.
 
@@ -75,10 +70,10 @@ python train.py --is_test --mode FewVS --backbone Res12 --dataset CIFAR_FS  --n_
 ```
 
 ## Acknowlegements
-Part of the code refers to [SMKD](https://github.com/HL-hanlin/SMKD), [BML](https://github.com/ZZQzzq/BML), and [this repo](https://github.com/sachit-menon/classify_by_description_release). Please check them for more details and features.
+Part of the code refers to [SMKD](https://github.com/HL-hanlin/SMKD), [BML](https://github.com/ZZQzzq/BML), [FewTURE](https://github.com/mrkshllr/FewTURE), and [this repo](https://github.com/sachit-menon/classify_by_description_release). Please check them for more details and features.
 
 ## Citation
-When using code within this repository, please refer the following [paper](https://arxiv.org/abs/2108.12104) in your publications:
+If you find this repository useful, please consider giving us a star ⭐ and cite our work.
 ```
 @inproceedings{li2024fewvs,
   title={FewVS: A Vision-Semantics Integration Framework for Few-Shot Image Classification},
