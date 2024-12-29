@@ -1,0 +1,30 @@
+# Ignore image files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+
+# Ignore pickle files
+*.pkl
+*.pth
+*.log
+*.zip
+*.pth
+# Ignore VSCode files
+.vscode/
+*.code-workspace
+*.vscode/
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+data/
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+/eval_results/
+/params/
+/params_baseline/
+/exp/
+/weights/
