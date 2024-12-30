@@ -78,7 +78,7 @@ python train.py --is_test --mode FewVS --backbone Res12 --dataset CIFAR_FS  --n_
 Part of the code refers to [SMKD](https://github.com/HL-hanlin/SMKD), [BML](https://github.com/ZZQzzq/BML), and [this repo](https://github.com/sachit-menon/classify_by_description_release). Please check them for more details and features.
 
 ## Citation
-When using code within this repository, please refer the following [paper](https://dl.acm.org/doi/pdf/10.1145/3664647.3681427?casa_token=qQ4d_2_0oCkAAAAA:Bcy0mc2TYiRg69JapozNSVV4NDXvxCIqr83UIw3rnKcDlWGuIA0cddC8qAXBbn9RAzpk8Z_RZNb3) in your publications:
+If you find this repository helpful, please consider citing our [paper](https://dl.acm.org/doi/pdf/10.1145/3664647.3681427?casa_token=qQ4d_2_0oCkAAAAA:Bcy0mc2TYiRg69JapozNSVV4NDXvxCIqr83UIw3rnKcDlWGuIA0cddC8qAXBbn9RAzpk8Z_RZNb3).
 ```
 @inproceedings{li2024fewvs,
   title={FewVS: A Vision-Semantics Integration Framework for Few-Shot Image Classification},
