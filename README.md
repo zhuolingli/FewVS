@@ -1,8 +1,10 @@
 # FewVS 
 
+<p align="center"><strong>Accepted to ACM Multimedia 2024.</strong></p>
+
 This is the PyTorch implementation of "FewVS: A Vision-Semantics Integration Framework for Few-Shot Image Classification". 
 
-## Installation
+## 🛠️ Installation
 
 Python 3.8, Pytorch 1.11, CUDA 11.3. The code is tested on Ubuntu 20.04.
 
@@ -14,7 +16,7 @@ conda activate fewvs
 pip install -r requirements.txt 
 ```
 
-## Datasets
+## 📦 Datasets
 
 We prepare 𝒎𝒊𝒏𝒊ImageNet and 𝒕𝒊𝒆𝒓𝒆𝒅ImageNet and resize the images following the guidelines from [SMKD](https://github.com/HL-hanlin/SMKD). 
 
@@ -41,12 +43,12 @@ CIFAR-FS and FC100 can be download using  [CIFAR_FS](https://drive.google.com/fi
 
 **After getting the data, please put the four datasets into `data/`, and modify ``data_path`` in `dataloader/dataset.py` correspondingly.**
 
-## Weights
+## 🧠 Weights
 - Please download the pre-trained models for evaluation from this [link](https://drive.google.com/file/d/1itn_U2zvnvRe841QBxK9NNvAOOYcT_xV/view?usp=sharing),  or using backup links ([miniImageNet](https://pan.baidu.com/s/1uDj5y7i_ticjlllYPVd6jw?pwd=1111), [tieredImageNet](https://pan.baidu.com/s/1x-J4dfqnguNqrBURk-kw6Q?pwd=1111), [FC100](https://pan.baidu.com/s/1tGag6VpME0u6xFnl1RGcjw?pwd=1111), [CIFAR_FS](https://pan.baidu.com/s/1gYjw0rOInhNG9jHwT_QJKw?pwd=1111), (code:1111)).
 
 - unzip these weights to ``weights/``
 
-## Training 
+## 🚀 Training
 During training, only a linear layer is optimized.
 For example, we can use the following code for training with the ResNet backbone on the CIFAR_FS dataset:
 
@@ -59,7 +61,7 @@ python train.py  --mode train_proj --backbone Res12 --dataset CIFAR_FS
 
 
 
-## Evaluation 
+## 🔍 Evaluation
 We use ```train.py``` to evaluate a trained model.
 
 For example, we can use the following code to do 5-way 1-shot and 5-way 5-shot evaluation on FewVS-Res on the CIFAR_FS dataset:
@@ -74,10 +76,10 @@ python train.py --is_test --mode FewVS --backbone Res12 --dataset CIFAR_FS  --n_
 python train.py --is_test --mode FewVS --backbone Res12 --dataset CIFAR_FS  --n_shots 5  --optim_steps_online 5 --alpha 3
 ```
 
-## Acknowlegements
+## 🙏 Acknowlegements
 Part of the code refers to [SMKD](https://github.com/HL-hanlin/SMKD), [BML](https://github.com/ZZQzzq/BML), and [this repo](https://github.com/sachit-menon/classify_by_description_release). Please check them for more details and features.
 
-## Citation
+## 📖 Citation
 If you find this repository helpful, please consider citing our [paper](https://dl.acm.org/doi/pdf/10.1145/3664647.3681427?casa_token=qQ4d_2_0oCkAAAAA:Bcy0mc2TYiRg69JapozNSVV4NDXvxCIqr83UIw3rnKcDlWGuIA0cddC8qAXBbn9RAzpk8Z_RZNb3).
 ```
 @inproceedings{li2024fewvs,
@@ -88,4 +90,3 @@ If you find this repository helpful, please consider citing our [paper](https://
   year={2024}
 }
 ```
-
